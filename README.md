@@ -1,4 +1,4 @@
-👋 Hey Everyone, This Gist is developed to help you Automate the Applying on Instahyre. 
+👋 Hey Everyone, This script is developed to help you Automate the Applying on Instahyre. 
 
 The code is given below.
 
